@@ -35,5 +35,5 @@ If you need to install directly from repository for development / testing purpos
 
 
 ```bash
-python3 -m pip install git+https://github.com/huntdatacenter/jupyter-example-proxy.git@main#egg=jupyter-example-proxy
+python3 -m pip install git+https://github.com/arang129/jupyter-example-proxy.git@main#egg=jupyter-example-proxy
 ```
