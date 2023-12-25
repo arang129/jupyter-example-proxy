@@ -11,8 +11,8 @@ log.setLevel("INFO")
 APP_TITLE = "WORKBENCH_APP"
 APP_NAME = "webapp"
 APP_TITLE = "Workbench App"
-# WSGI_APP = "workbench_app.wsgi:app"
-WSGI_APP = "workbench_app.app:create_app()"
+WSGI_APP = "workbench_app.wsgi:app"
+# WSGI_APP = "workbench_app.app:create_app()"
 
 
 TRUTHY = ("true", "1", "yes", "on", "y")
